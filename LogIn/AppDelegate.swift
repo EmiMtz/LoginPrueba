@@ -2,11 +2,13 @@
 //  AppDelegate.swift
 //  LogIn
 //
-//  Created by Abner Castro on 3/1/19.
-//  Copyright © 2019 Abner Castro. All rights reserved.
+
+//  Created by Emiliano Martinez on 02/04/20.
+//  Copyright © 2020 EmiMtz. All rights reserved.
 //
 
 import UIKit
+import IQKeyboardManagerSwift
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -15,7 +17,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        
+        IQKeyboardManager.shared.enable = true
+        
+        UINavigationBar.appearance().barTintColor = UIColor.mainPink()
+        UINavigationBar.appearance().barStyle = .blackTranslucent
+        
+        UINavigationBar.appearance().tintColor = .white
+        
+        
         return true
     }
 

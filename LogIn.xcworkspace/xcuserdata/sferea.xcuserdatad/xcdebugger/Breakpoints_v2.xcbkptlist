@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9034D2E4-D1CF-479A-8892-4071AE3FD151"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DE923E9-5C70-435F-B376-6234079BEAD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LogIn/RegisterModule/RegisterInteractor/RegisterInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "createAccount(parametros:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DE923E9-5C70-435F-B376-6234079BEAD0 - 936da3d4edb83240"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LogIn.RegisterInteractor.createAccount(parametros: LogIn.UserEntity, completion: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;__C.NSError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "LogIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sferea/Downloads/login/LogIn/LogIn/RegisterModule/RegisterInteractor/RegisterInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1255">
+               </Location>
+               <Location
+                  uuid = "0DE923E9-5C70-435F-B376-6234079BEAD0 - 6346cdbfb3e16b1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;LogIn.Response&lt;LogIn.ResponseService&gt;&gt;, Swift.Optional&lt;LogIn.CodeResponse&gt;, Swift.Int) -&gt; () in LogIn.RegisterInteractor.createAccount(parametros: LogIn.UserEntity, completion: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;__C.NSError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "LogIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sferea/Downloads/login/LogIn/LogIn/RegisterModule/RegisterInteractor/RegisterInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01E4836C-538F-4686-9081-29B6B812C9C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LogIn/RegisterModule/RegisterInteractor/RegisterInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "createAccount(parametros:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3087D64-0550-4263-9D1F-9B692FB342D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LogIn/LoginModule/LoginInteractor/LoginInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "sendLogin(parametros:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3087D64-0550-4263-9D1F-9B692FB342D3 - 649c99d87d771ff5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LogIn.LoginInteractor.sendLogin(parametros: LogIn.LoginEntity, completion: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;__C.NSError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "LogIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sferea/Downloads/login/LogIn/LogIn/LoginModule/LoginInteractor/LoginInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1178">
+               </Location>
+               <Location
+                  uuid = "B3087D64-0550-4263-9D1F-9B692FB342D3 - 3e7b9b87b5357019"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;LogIn.Response&lt;LogIn.ResponseService&gt;&gt;, Swift.Optional&lt;LogIn.CodeResponse&gt;, Swift.Int) -&gt; () in LogIn.LoginInteractor.sendLogin(parametros: LogIn.LoginEntity, completion: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;__C.NSError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "LogIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sferea/Downloads/login/LogIn/LogIn/LoginModule/LoginInteractor/LoginInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "502C5DAD-E1D2-42E1-BE49-34468BE3F4B9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LogIn/LoginModule/LoginInteractor/LoginInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "sendLogin(parametros:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "745675E5-693C-4909-A66C-3E84D51B5718"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LogIn/LoginModule/LoginView/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "logIn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4D4BE1C-7282-4513-A370-49BEB4CD5FDA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LogIn/RegisterModule/RegisterPresenter/RegisterPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "sendCreateAccount(parametros:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

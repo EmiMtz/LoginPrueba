@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (4.8.2)
+  - IQKeyboardManagerSwift (6.5.5)
+  - MaterialComponents/ActivityIndicator (110.3.0):
+    - MaterialComponents/Palettes
+    - MaterialComponents/private/Application
+    - MDFInternationalization
+    - MotionAnimator (~> 2.0)
+  - MaterialComponents/Palettes (110.3.0)
+  - MaterialComponents/private/Application (110.3.0)
+  - MDFInternationalization (2.0.0)
+  - MotionAnimator (2.8.1):
+    - MotionInterchange (~> 1.6)
+  - MotionInterchange (1.6.0)
+  - Reqres (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - IQKeyboardManagerSwift
+  - MaterialComponents/ActivityIndicator
+  - Reqres
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - MaterialComponents
+    - MDFInternationalization
+    - MotionAnimator
+    - MotionInterchange
+    - Reqres
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  MaterialComponents: 424da6db40748236c6f071a9e9fbe00aa62033ff
+  MDFInternationalization: 010097556d6b09d2c4ea38e0820ea6d37be6a314
+  MotionAnimator: ee16aa30567c5bae0fb2750c132915829cfaaf8a
+  MotionInterchange: ead0e3ae1f3a5fb539e289debbc7ae036160a10d
+  Reqres: da8d0497e660dc12c4db8285f30008c27c1800b7
+
+PODFILE CHECKSUM: 4df72d0d7f9d7675287eb01abaaf20c1050dfff2
+
+COCOAPODS: 1.8.4
